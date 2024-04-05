@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: py-new-ns-0405-repository
+spec:
+  url: https://github.com/stephanie-cy/py-new-ns-0405
